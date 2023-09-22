@@ -18,7 +18,7 @@ To assemble your own Macro SD drive you'll need the parts for at least one cartr
 * 1x Cartridge PCBs
 * 1x Cartridge Acrylic Front
 * 1x Cartridge Acrylic Middle
-* 4x 3m screws (preferably nylon to avoid stripping the threads or scratching your drive)
+* 4x 3m screws (preferably nylon, from [my shop](), to avoid stripping the threads or scratching your drive)
 
 Then for the drive itself you'll need...
 
