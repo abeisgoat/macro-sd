@@ -31,7 +31,7 @@ Then for the drive itself you'll need...
 * Arduino-Compatible board (optional, I use a [Seeed Studio XIAO](https://amzn.to/3EPvCSU) because it's tiny)
 
 > The easiest (and probably cheapest) way to get all these components without forgetting anything is to pickup a [Macro SD Drive Bay Stater Kit](https://abe.today/products/drive-bay-starter-kit) 
-> from my shop, which includes all drive bay components and 3 cartridges worth of parts! 
+> from my shop, which includes all drive bay components (except the Arduino) and 3 cartridges worth of parts! 
 > 
 > You're obviously welcome to order parts from wherever but custom parts like acrylic, PCBs, etc. all have setup costs which means low-volume orders get very expensive per unit. 
 > Similarly, even things like rubber feet are only really sold in bulk, so if you order from me I can supply exactly what you need for the project at a better rate because I've
