@@ -22,19 +22,20 @@ To assemble your own Macro SD drive you'll need the parts for at least one cartr
 
 Then for the drive itself you'll need...
 
-* 10x 3in 26 awg Silicone Wire
-* 2x Micro SD breakout
-* 1x Edge Connector 
-* 1x Micro SD card reader
-* 4x Rubber feet (optional, but recommended for standalone drive)
+* 10x 3in 26 awg Silicone Wire (I like [this wire](https://amzn.to/3sZRBDP))
+* Micro SD breakout ([My Shop]() or [PCBWay](https://www.pcbway.com/project/shareproject/MicroSD_breakout_board.html))
+* Edge Connector ([My Shop]() or [Digikey](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5-5530843-4/770549?s=N4IgTCBcDaIIIGYCMB2MCC0A5AIiAugL5A))
+* Micro SD card reader ([My Shop]() or [Amazon](https://amzn.to/458Vaox))
+* USB Extension Cable (for standalone version, [find the length / connector style you need based on your SD reader](https://amzn.to/455YUax). This acts as the cable which comes out the back of the drive)
+* 4x Rubber feet (optional, but recommended for standalone drive from [My Shop]() or [Amazon](https://amzn.to/45WZjNI))
 * Arduino-Compatible board (optional, I use a [Seeed Studio XIAO](https://amzn.to/3EPvCSU) because it's tiny)
-* USB Extension Cable (optional, [find the length / connector style you need based on your SD reader](https://amzn.to/455YUax). This is for standalone version and acts as the cable which comes out the back of the drive)
-* 
+
 > The easiest (and probably cheapest) way to get all these components without forgetting anything is to pickup a [Macro SD Drive Bay Stater Kit](https://abe.today/products/drive-bay-starter-kit) 
 > from my shop, which includes all drive bay components and 3 cartridges worth of parts! 
 > 
-> You're obviously welcome to order direct from fabricators (it's all open-source!) but acrylic parts, PCBs, etc. all have setup costs which means low-volume orders get very expensive per unit. 
-> I've ordered all these things in bulk so by distributing that setup fee amount everyone we can all have lower per-cart prices. 
+> You're obviously welcome to order parts from wherever but custom parts like acrylic, PCBs, etc. all have setup costs which means low-volume orders get very expensive per unit. 
+> Similarly, even things like rubber feet are only really sold in bulk, so if you order from me I can supply exactly what you need for the project at a better rate because I've
+> imported everything in bulk.
 > 
 > Plus it helps supports the project and my [Youtube channel](https://www.youtube.com/channel/UCUxIu91gGsK9Q0tTcQM8iNw).
 
