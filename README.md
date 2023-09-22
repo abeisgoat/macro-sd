@@ -119,7 +119,7 @@ While your models print, you can begin the soldering of components. In this step
 the Micro SD breakout board, edge connector, your 10 wires and an optimistic attitude.
 
 If you examine a cartridge PCB, you may notice it only has gold contact on the top, so we need to wire our edge
-connector to make contact with ten of those contacts. Although the PCB has 12 pins total, we only use the ten on the
+connector to make contact with ten of those contacts. Although the PCB has 12 pins total, we only use the eight on the
 left and the two on the right.
 
 If you insert the cart into the edge connector and look from the top down (with the cart word "UP" readable to you) the
@@ -138,7 +138,8 @@ until you have two seperated halves. Then pick a half and wire it normally.
 
 ### (Optional) Using the SW0/SW1 Pins
 For the `SW0` and `SW1` these pins are optionally used to detect when a cart is inserted into the drive. We can use an Arduino
-to detect when one of these pins are pulled low (to ground).
+to detect when one of these pins are pulled low (to ground). To do this first connect the SW1 pin to ground on your Arduino,
+then connect SW1 to a digital pin.
 
 ```c
 const int SW0Pin = 3;
